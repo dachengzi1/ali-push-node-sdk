@@ -1,0 +1,40 @@
+{
+  "author": "qiezi",
+  "bundleDependencies": false,
+  "contributors": [],
+  "dependencies": {
+    "node_memcached": "1.1.3",
+    "pomelo-protobuf": "^0.4.0",
+    "protobufjs": "^4.1.2",
+    "xml2js": "0.4.4",
+    "xmlbuilder": "^2.4.5"
+  },
+  "deprecated": false,
+  "description": "Aliyun push for JavaScript",
+  "devDependencies": {
+    "coffee-script": "1.6.3",
+    "coffeeify": "",
+    "cucumber": "",
+    "jasmine-node": "",
+    "jshint": "",
+    "mocha": "~2.1.0",
+    "repl.history": "",
+    "semver": "",
+    "should": "~4.6.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "keywords": [],
+  "main": "index.js",
+  "name": "ali-push",
+
+  "scripts": {
+    "test": "mocha test"
+  },
+  "version": "0.0.1",
+  "license": "ISC"
+}
