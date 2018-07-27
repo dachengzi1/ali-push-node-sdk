@@ -1,5 +1,8 @@
 {
-  "author": "qiezi",
+  "author": {
+    "name": "qiezi",
+    "email": "1228547024@qq.com"
+  },
   "bundleDependencies": false,
   "contributors": [],
   "dependencies": {
@@ -30,11 +33,14 @@
   },
   "keywords": [],
   "main": "index.js",
-  "name": "ali-push",
-
+  "name": "ali-push-node-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dachengzi1/ali-push-node-sdk.git"
+  },
   "scripts": {
     "test": "mocha test"
   },
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "ISC"
 }
