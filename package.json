@@ -38,7 +38,7 @@
   "scripts": {
     "test": "mocha test"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dachengzi1/ali-push-node-sdk/issues"
