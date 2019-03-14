@@ -301,6 +301,9 @@
 					},
 					"AndroidNotificationChannel":{
 						"type": "string"
+					},
+					"iOSBadgeAutoIncrement":{
+						"type": "boolean"
 					}
 				}
 			}
