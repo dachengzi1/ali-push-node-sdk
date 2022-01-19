@@ -12,4 +12,4 @@ npm install ali-push-node-sdk
 2.修改华为手机，8以上的版本收不到推送消息bug
 
 ```
-
+#test
